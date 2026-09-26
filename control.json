@@ -1,4 +1,5 @@
 {
-  "default": "enabled",
-  "users": {}
+  "default": "disabled",
+  "users": {},
+  "names": {}
 }
