@@ -1,9 +1,11 @@
 {
   "default": "disabled",
   "users": {
-    "mach_9063ba87207241ba": "enabled"
+    "mach_9063ba87207241ba": "enabled",
+    "mach_204bf15608284fb3": "enabled"
   },
   "names": {
-    "mach_9063ba87207241ba": "Mehran PC"
+    "mach_9063ba87207241ba": "Mehran PC",
+    "mach_204bf15608284fb3": "Jamal PC"
   }
 }
