@@ -2,12 +2,10 @@
   "default": "disabled",
   "users": {
     "mach_9063ba87207241ba": "enabled",
-    "mach_f892480562b14e89": "enabled",
-    "mach_45bc602195a748ec": "enabled"
+    "mach_f892480562b14e89": "enabled"
   },
   "names": {
     "mach_9063ba87207241ba": "Mehran PC",
-    "mach_f892480562b14e89": "Kasur-Ahmad ali",
-    "mach_45bc602195a748ec": "jamal PC"
+    "mach_f892480562b14e89": "Kasur-Ahmad ali"
   }
 }
