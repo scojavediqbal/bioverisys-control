@@ -2,7 +2,7 @@
   "default": "disabled",
   "users": {
     "mach_9063ba87207241ba": "enabled",
-    "mach_f892480562b14e89": "enabled",
+    "mach_f892480562b14e89": "disabled",
     "mach_45bc602195a748ec": "enabled"
   },
   "names": {
