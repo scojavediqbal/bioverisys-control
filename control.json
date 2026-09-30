@@ -1,7 +1,6 @@
 {
   "default": "disabled",
   "users": {
-    "mach_9063ba87207241ba": "enabled",
     "mach_2fe0dd1d977b4c7c": "enabled",
     "mach_3d80089dd1904bb0": "enabled",
     "mach_4f1c28786fd747b5": "enabled",
@@ -19,7 +18,6 @@
     "mach_50fe2bb68b584e23": "enabled"
   },
   "names": {
-    "mach_9063ba87207241ba": "Mehran PC",
     "mach_2fe0dd1d977b4c7c": "jamal pc",
     "mach_3d80089dd1904bb0": "kashif SCO-Rajanpur",
     "mach_4f1c28786fd747b5": "Naeem SCO-Khushab",
