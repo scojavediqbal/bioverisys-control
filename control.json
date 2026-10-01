@@ -2,7 +2,6 @@
   "default": "disabled",
   "users": {
     "mach_2fe0dd1d977b4c7c": "enabled",
-    "mach_3d80089dd1904bb0": "enabled",
     "mach_4f1c28786fd747b5": "enabled",
     "mach_1ec6cc3409ff444b": "enabled",
     "mach_6625a054a436421f": "enabled",
@@ -19,7 +18,6 @@
   },
   "names": {
     "mach_2fe0dd1d977b4c7c": "jamal pc",
-    "mach_3d80089dd1904bb0": "kashif SCO-Rajanpur",
     "mach_4f1c28786fd747b5": "Naeem SCO-Khushab",
     "mach_1ec6cc3409ff444b": "Faizan SCO -Sahiwal",
     "mach_6625a054a436421f": "Usman CO-Tandlianwala fsd",
