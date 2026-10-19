@@ -1,5 +1,5 @@
 {
-  "default": "disabled",
+  "default": "enabled",
   "users": {
     "mach_4f1c28786fd747b5": "disabled",
     "mach_1ec6cc3409ff444b": "enabled",
